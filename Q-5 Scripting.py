@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import ssl
 import smtplib
 import datetime 
-import time
 import schedule
 
 def job_to_do():
