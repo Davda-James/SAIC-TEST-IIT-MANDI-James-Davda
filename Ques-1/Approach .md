@@ -30,4 +30,4 @@ Nmap done: 256 IP addresses (5 hosts up) scanned in 155.74 seconds
 
 * This is the ip address of target machine `192.168.29.72`  with http port 80 open.
 * I search it in browser with http port 80, I found a page about Xenia which is mascot for linux.
-* * Also I am not able to see any page or login that I have to crack ..
+* Also I am not able to see any page or login that I have to crack ..
