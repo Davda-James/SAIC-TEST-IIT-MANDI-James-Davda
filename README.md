@@ -6,3 +6,5 @@
 > 	* Done Partially
 >  		* (testing remains)
 > ----------------------
+> * ***Q-1 Gaining accesss to remote server***
+>   * Done little bit 
